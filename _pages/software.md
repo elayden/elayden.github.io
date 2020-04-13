@@ -18,25 +18,25 @@ header:
 * Data management using Firebase Realtime Database and SQLite
 	
 ----------------------------------------------------------------------------	
-### NIfTI Studio
+### [NIfTI Studio](https://elliotlayden.com/software/nifti-studio)
 * A Matlab toolbox for NIfTI and Analyze (img/hdr) image visualization, editing, and 3D rendering
 * View on [Github](https://github.com/elayden/NIfTI-Studio), [Citation](http://doi.org/10.5281/zenodo.3725006)
 
 ----------------------------------------------------------------------------		
-### MRIqual
+### [MRIqual](https://elliotlayden.com/software/MRIqual)
 * A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI
 * View on [Github](https://github.com/elayden/MRIqual), [Citation](http://doi.org/10.5281/zenodo.3735471)
+	
+----------------------------------------------------------------------------
+### Portfolio Sortino Ratio
+* Optimize stock portfolio weights to maximize a combination of Sortino ratio, Sharpe ratio, total return, downside risk, SD, or max drawdown
+* View on [Github](https://github.com/elayden/portfolio_sortino_ratio), [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/68589-portfolio_sortino_ratio)
 	
 ----------------------------------------------------------------------------
 ### N-Back for Matlab
 * The classic dual n-back task implemented in Matlab; includes position, sound, and color 
 * View on [Github](https://github.com/elayden/N-Back-for-Matlab), [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/67976-n-back-for-matlab), [G-Node Open Data](https://doi.org/10.12751/g-node.f87128)
 
-----------------------------------------------------------------------------
-### Portfolio Sortino Ratio
-* Optimize stock portfolio weights to maximize a combination of Sortino ratio, Sharpe ratio, total return, downside risk, SD, or max drawdown
-* View on [Github](https://github.com/elayden/portfolio_sortino_ratio), [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/68589-portfolio_sortino_ratio)
-	
 ----------------------------------------------------------------------------
 ### Plot Corrmat
 * A Matlab utility for plotting correlation matrices, with similar appearance to Seaborn in Python.
