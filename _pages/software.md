@@ -19,12 +19,12 @@ header:
 	
 ----------------------------------------------------------------------------	
 ### [NIfTI Studio](https://elliotlayden.com/software/nifti-studio)
-* A Matlab toolbox for NIfTI and Analyze (img/hdr) image visualization, editing, and 3D rendering
+* Open-source toolbox for NIfTI and Analyze (img/hdr) image visualization, editing, and 3D rendering
 * View on [Github](https://github.com/elayden/NIfTI-Studio), [Citation](http://doi.org/10.5281/zenodo.3725006)
 
 ----------------------------------------------------------------------------		
 ### [MRIqual](https://elliotlayden.com/software/mriqual)
-* A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI
+* Open-source toolbox toolbox for quality assurance analyses on structural and functional MRI images
 * View on [Github](https://github.com/elayden/MRIqual), [Citation](http://doi.org/10.5281/zenodo.3735471)
 	
 ----------------------------------------------------------------------------
