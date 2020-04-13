@@ -1,6 +1,14 @@
 ---
 permalink: /software/
 title: "Software"
+classes: wide
+author_profile: true
+header:
+  overlay_image: /assets/images/seattle-night.jpg
+  caption: "Photo credit: [**Timothy Eberly on Unsplash**](https://unsplash.com/photos/h3vT1-T2nfc)"
+  actions:
+    - label: "Github"
+      url: "https://github.com/elayden/"
 ---
 ## [N-Back Memory Training](https://nbackmemorytraining.com/)			 	         	       	 	
 * Java-based Android app on [Google Play](https://play.google.com/store/apps/details?id=science.eal.n_backmemorytraining) for n-back working memory training

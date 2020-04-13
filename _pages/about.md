@@ -1,6 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
+author_profile: true
+header:
+  overlay_image: /assets/images/olympic-national-park.jpg
+  caption: "Photo credit: [**Yux Xiang on Unsplash**](https://unsplash.com/photos/Aixc9XNggKg)"
 ---
 I am a data scientist based in the Seattle area with 6+ years of experience in research, analytics, and predictive modeling. 
 

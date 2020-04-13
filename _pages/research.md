@@ -1,6 +1,14 @@
 ---
 permalink: /research/
 title: "Research"
+classes: wide
+author_profile: true
+header:
+  overlay_image: /assets/images/olympic-mountains-sunset.jpg
+  caption: "Photo credit: [**Photo by Dave on Unsplash**](https://unsplash.com/photos/i0K3-IHiXYI)"
+  actions:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=ekUiNZwAAAAJ&hl=en&oi=ao"
 ---
 
 <b>Layden, E. A.</b>, Schertz, K. E., Berman, M. G., & London, S. E. (2019). [Functional connectivity strength within the auditory forebrain is altered by song learning and predicts song stereotypy in developing male zebra finches.](https://doi.org/10.1101/657825) <i>bioRxiv</i>, 657825.
