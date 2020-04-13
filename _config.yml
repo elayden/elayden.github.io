@@ -64,6 +64,7 @@ author:
   name   : "Elliot Layden, Ph.D."
   avatar : "/assets/images/profile-pic.jpg"
   bio    : "Data scientist, Ph.D. in neuroscience & psychology"
+#  email  : "contact@elliotlayden.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -72,8 +73,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elayden"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-graduation-cap" # https://fontawesome.com/icons?d=gallery&q=graduate  # "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=ekUiNZwAAAAJ&hl=en&oi=ao"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@elliotlayden.com"
 
 footer:
   links:
@@ -84,8 +88,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elayden"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-graduation-cap" # https://fontawesome.com/icons?d=gallery&q=graduate
       url: "https://scholar.google.com/citations?user=ekUiNZwAAAAJ&hl=en&oi=ao"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@elliotlayden.com"
 
 defaults:
   # _posts
@@ -114,4 +121,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.19.1"
