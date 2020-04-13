@@ -23,12 +23,12 @@ header:
 * View on [Github](https://github.com/elayden/NIfTI-Studio), [Citation](http://doi.org/10.5281/zenodo.3725006)
 
 ----------------------------------------------------------------------------		
-### [MRIqual](https://elliotlayden.com/software/MRIqual)
+### [MRIqual](https://elliotlayden.com/software/mriqual)
 * A Matlab toolbox for examining the quality of structural (SNR) and functional (tSNR, SFNR) MRI
 * View on [Github](https://github.com/elayden/MRIqual), [Citation](http://doi.org/10.5281/zenodo.3735471)
 	
 ----------------------------------------------------------------------------
-### Portfolio Sortino Ratio
+### [Portfolio Sortino Ratio](https://elliotlayden.com/software/portfolio_sortino_ratio)
 * Optimize stock portfolio weights to maximize a combination of Sortino ratio, Sharpe ratio, total return, downside risk, SD, or max drawdown
 * View on [Github](https://github.com/elayden/portfolio_sortino_ratio), [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/68589-portfolio_sortino_ratio)
 	
