@@ -122,3 +122,9 @@ tag_archive:
   path: /tags/
 
 # remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-163565900-1"
+    anonymize_ip: false # default
