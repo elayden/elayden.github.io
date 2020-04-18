@@ -22,6 +22,20 @@ header:
 * Open-source toolbox for NIfTI and Analyze (img/hdr) image visualization, editing, and 3D rendering
 * View on [Github](https://github.com/elayden/NIfTI-Studio), [Citation](http://doi.org/10.5281/zenodo.3725006)
 
+----------------------------------------------------------------------------	
+### [Deep Learning Framework for Financial Time Series Prediction in Python Keras](https://github.com/elayden/Deep-Learning-Framework-for-Financial-Time-Series-Prediction-in-Python-Keras)
+* A set of Python functions for training small, fully connected networks or sequence models (e.g., LSTM) to predict stock prices
+* Functions available for randomly partitioning data into Train/Dev/Test, creating sliding windows of various sizes, making data stationary
+* Evaluate model performance via:
+	* RMSE, R^2
+	* ROC curve plot and AUC
+* Evaluate trading outcomes via:
+	* Annualized return improvement over a buy and hold strategy
+	* Plots showing returns
+	* Percent of trades that are profitable
+	* Profit Factor
+	* Max Drawdown
+
 ----------------------------------------------------------------------------		
 ### [MRIqual](https://elliotlayden.com/software/mriqual)
 * Open-source toolbox toolbox for quality assurance analyses on structural and functional MRI images
