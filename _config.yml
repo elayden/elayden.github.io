@@ -128,3 +128,5 @@ analytics:
   google:
     tracking_id: "UA-163565900-1"
     anonymize_ip: false # default
+
+theme: jekyll-theme-slate
