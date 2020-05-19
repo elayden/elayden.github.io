@@ -18,9 +18,11 @@ Meidenbauer, K. L., Stenfors, C. U., Young, J., <b>Layden, E. A.</b>, Schertz, K
 <b>Layden, E. A.</b> (2019). [Functional Connectivity Signatures of Interhemispheric Coordination and Vocal Learning in the Zebra Finch Brain](https://knowledge.uchicago.edu/record/1833?ln=en) (Doctoral dissertation, The University of Chicago).
 
 <b>Layden, E. A.</b>, Schertz, K. E., London, S. E., & Berman, M. G. (2019). [Interhemispheric functional connectivity in the zebra finch brain, absent the corpus callosum in normal ontogeny.](https://doi.org/10.1016/j.neuroimage.2019.03.064) <i>NeuroImage</i>, <i>195</i>, 113-127.
+* For full text, see chapter 2 of my dissertation above
 
 Satyshur, M. D., <b>Layden, E. A.</b>, Gowins, J. R., Buchanan, A., & Gollan, J. K. (2018). [Functional connectivity of reflective and brooding rumination in depressed and healthy women.](https://doi.org/10.3758/s13415-018-0611-7) <i>Cognitive, Affective, & Behavioral Neuroscience</i>, <i>18</i>(5), 884-901.
 
 <b>Layden, E. A.</b>, Cacioppo, J. T., & Cacioppo, S. (2018). [Loneliness predicts a preference for larger interpersonal distance within intimate space.](https://doi.org/10.1371/journal.pone.0203491) <i>PloS one</i>, <i>13</i>(9).
 
 <b>Layden, E. A.</b>, Cacioppo, J. T., Cacioppo, S., Cappa, S. F., Dodich, A., Falini, A., & Canessa, N. (2017). [Perceived social isolation is associated with altered functional connectivity in neural networks associated with tonic alertness and executive control.](https://doi.org/10.1016/j.neuroimage.2016.09.050) <i>Neuroimage</i>, <i>145</i>, 58-73.
+* [Full Text](https://www.researchgate.net/publication/308519312_Perceived_Social_Isolation_is_Associated_with_Altered_Functional_Connectivity_in_Neural_Networks_Associated_with_Tonic_Alertness_and_Executive_Control) 
