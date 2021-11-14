@@ -12,7 +12,7 @@ header:
     - label: "Cite"
       url: "http://doi.org/10.5281/zenodo.3725006"
 ---
-[NIfTI Studio](https://elliotlayden.com/nifti-studio) is an open-source Matlab toolbox for NIfTI and Analyze (img/hdr) image visualization, editing, and 3D rendering. This toolbox was used to manually trace regions of interest (ROIs) for our custom zebra finch brain template in Layden et al. (2019), and also to create figures for several papers. Below are some example use cases for the toolbox:
+[NIfTI Studio](https://github.com/elayden/NIfTI-Studio) is an open-source Matlab toolbox for NIfTI and Analyze (img/hdr) image visualization, editing, and 3D rendering. This toolbox was used to manually trace regions of interest (ROIs) for our custom zebra finch brain template in Layden et al. (2019), and also to create figures for several papers. Below are some example use cases for the toolbox:
 
 ### 3D rendering of the human MNI brain template with regions of interest (ROIs) [[Code](https://github.com/elayden/NIfTI-Studio/blob/master/examples/human_example.m)]
 ![3D Human Brain](/assets/images/nifti-studio/human_brain_3d_rois_connections.jpg)

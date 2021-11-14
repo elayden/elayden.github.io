@@ -11,7 +11,7 @@ header:
       url: "https://scholar.google.com/citations?user=ekUiNZwAAAAJ&hl=en&oi=ao"
 ---
 
-<b>Layden, E. A.</b>, Schertz, K. E., Berman, M. G., & London, S. E. (2019). [Functional connectivity strength within the auditory forebrain is altered by song learning and predicts song stereotypy in developing male zebra finches.](https://doi.org/10.1101/657825) <i>bioRxiv</i>, 657825.
+<b>Layden, E. A.</b>, Li, H., Schertz, K. E., Berman, M. G., & London, S. E. (2020). [Experience selectively alters functional connectivity within a neural network to predict learned behavior in juvenile songbirds.](https://doi.org/10.1016/j.neuroimage.2020.117218) <i>NeuroImage</i>, 117218.
 
 Meidenbauer, K. L., Stenfors, C. U., Young, J., <b>Layden, E. A.</b>, Schertz, K. E., Kardan, O., ... & Berman, M. G. (2019). [The gradual development of the preference for natural environments.](https://doi.org/10.1016/j.jenvp.2019.101328) <i>Journal of Environmental Psychology</i>, <i>65</i>, 101328.
 
